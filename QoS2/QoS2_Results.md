@@ -1,5 +1,6 @@
-## [Return](../README.md)
+### [Return](../README.md)
 
+## Complete QoS 2 Results Table
 | Parameters                                                                                                    |   Packet Loss (%) |   Time Factor (x) |   RTT (ms) |
 |:--------------------------------------------------------------------------------------------------------------|------------------:|------------------:|-----------:|
 | 1 client<br>100% CPU<br>Nagle Algorithm on<br>1000 message queue<br>1250 byte payload<br>5 Hz frequency       |             0.000 |             1.000 |      2.988 |
