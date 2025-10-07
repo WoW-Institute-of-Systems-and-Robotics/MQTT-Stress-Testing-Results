@@ -1,4 +1,4 @@
-# The Price of Reliability: Stress-Testing MQTT QoS in Practical IoT Communications
+# The Price of Reliability: Stress-Testing MQTT in Practical IoT Communications
 
 ### [Complete QoS 0 Results Table](https://wow-institute-of-systems-and-robotics.github.io/MQTT-Stress-Testing-Results/QoS0_Results.html)
 
